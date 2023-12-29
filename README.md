@@ -1,7 +1,7 @@
 # Delegation
 This is a simple delegation system implementation in C++.
 
-## Attributes
+## Features
 - Support member functions
 - Support global functions
 - Support multiple delegation
